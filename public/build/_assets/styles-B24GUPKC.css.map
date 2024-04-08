@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../app/routes/styles.css"],
+  "sourcesContent": [".app {\n\tmargin: 0;\n\tposition: absolute;\n\ttop: 50%;\n\tleft: 50%;\n\t-ms-transform: translate(-50%, -50%);\n\ttransform: translate(-50%, -50%);\n}\n\ninput::-webkit-outer-spin-button,\ninput::-webkit-inner-spin-button {\n\t-webkit-appearance: none;\n\tmargin: 0;\n}\n\n:disabled {\n\topacity: 0.4;\n}\n\n:focus-visible {\n\toutline: none;\n}"],
+  "mappings": ";AAAA;;AAEC;AACA;AACA;AAEA;;AAGD;;AAEC;AAXD;;AAeA;AACC;;AAGD;AACC;;",
+  "names": []
+}

@@ -1,0 +1,57 @@
+.amount-form .amount {
+  font-weight: 700;
+  background-color: #2bbed3;
+  font-size: 1.5em;
+  margin: 0 auto 15px 0;
+  width: 8em;
+  padding: 8px 0 8px 0;
+  font-size: 1.5em;
+  color: #fff;
+  text-align: right;
+  border: none;
+  border-radius: 15px;
+}
+.amount-form .numpad {
+  font-size: 40px;
+  width: 7.5em;
+  margin: 15px auto 0;
+  height: 450px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.amount-form button {
+  border: 0.03em solid #fff;
+  background-color: #2bbed3;
+  color: #fff;
+  float: left;
+  cursor: pointer;
+  font: inherit;
+  width: 2em;
+  height: 2em;
+  border-radius: 50%;
+  margin: 0.25em;
+}
+.amount-form button:hover {
+  background-color: #fff;
+  color: #2bbed3;
+}
+.amount-form .clear-one {
+  float: right;
+  width: 2.5em;
+  height: 2.5em;
+  margin: auto;
+}
+.amount-form .actions {
+  display: flex;
+  justify-content: center;
+}
+.amount-form .actions .submit-btn {
+  width: 60%;
+  padding: 0.3em 1.5em;
+  border-radius: 1em;
+  margin: 1em 0 0 0;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=style.css.map */
